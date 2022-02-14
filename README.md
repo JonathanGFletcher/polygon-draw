@@ -9,6 +9,7 @@ A polygon drawing application written in C using OpenGL and GLUT.
 ### How to use program
 - Left-click to start drawing a new polygon
 - Right-click to complete current polygon
+- ESC to exit program
 
 ## Architecture
 
